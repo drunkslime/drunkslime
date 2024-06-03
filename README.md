@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @drunkslime
+- 👋 Hi, I’m .drunkslime
 - 👀 I’m interested in things.
-- 🌱 I’m currently learning Python and C++.
+- 🌱 I’m currently learning Python, JavaScript and C++.
 - 💞️ I’m looking to collaborate on things-
 - 📫 How to reach me - somehow.
 
